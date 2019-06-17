@@ -1,5 +1,5 @@
 # Plot de temperatura em tempo real
 
-##Dercrição do Projeto
+## Descrição do Projeto
 
 ![Periféricos](Perifericos1.PNG)
