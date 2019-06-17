@@ -2,4 +2,4 @@
 
 ## Descrição do Projeto
 
-![Perifericos](Perifericos1.PNG)
+![Perifericos](Perifericos1.png)
