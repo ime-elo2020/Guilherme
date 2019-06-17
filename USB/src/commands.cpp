@@ -11,8 +11,7 @@ uint16_t cmd_info(uint16_t argc, uint8_t *argv8[]){
 	char* buffer=(char*)argv[0];
 
 	if(argc==1){
-		size+=sprintf(buffer+size, "Microcontroladores 2019\r\n");
-		STM_EVAL_LEDOn(LED3);
+		size+=sprintf(buffer+size, "Os leds giram!\r\n");
 		j = j^1;
 	} else {
 		size+=sprintf(buffer+size, "Syntax: info\r\n");
@@ -21,5 +20,5 @@ uint16_t cmd_info(uint16_t argc, uint8_t *argv8[]){
 }
 
 
-CommandLine cmdline({"info"},
+CommandLine cmdline({"gira"},
 					{cmd_info});
