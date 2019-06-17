@@ -14,4 +14,9 @@ No projeto serão utilizados:
 Figura 1: Diagrama de Blocos
 
 ## Pinagem
+Conversor AD -> ADC_IN16
+
+## Fluxoagrama
+
+![Fluxograma do Firmware](Fluxograma_do_Firmware.png)
 
