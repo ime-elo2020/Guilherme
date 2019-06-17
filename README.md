@@ -6,8 +6,11 @@ Este projeto tem como objetivo plotar, em tempo real, a temperatura interna da p
 ## Periféricos
 No projeto serão utilizados:
 
-### 1 STM32F407 Discovery
-### 1 PC - LabView
+#### 1 STM32F407 Discovery
+#### 1 PC - LabView
 
 ![Perifericos](Perifericos1.png)
 Figura 1: Diagrama de Blocos
+
+## Pinagem
+
