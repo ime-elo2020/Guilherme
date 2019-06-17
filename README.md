@@ -10,7 +10,7 @@ No projeto serão utilizados:
 #### 1 STM32F407 Discovery
 #### 1 PC - LabView
 
-![Perifericos](Perifericos1.png)
+![Perifericos](Perifericos2.png)
 Figura 1: Diagrama de Blocos
 
 ## Pinagem
