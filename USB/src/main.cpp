@@ -149,6 +149,8 @@ extern "C" void OTG_FS_WKUP_IRQHandler(void){
 	EXTI_ClearITPendingBit(EXTI_Line18);
 }
 
+
+
 /*
  * Callback used by stm32f4_discovery_audio_codec.c.
  * Refer to stm32f4_discovery_audio_codec.h for more info.
